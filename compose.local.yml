@@ -1,0 +1,19 @@
+name: museu-local
+services:
+  db:
+    image: mysql:8.0
+    ports:
+      - "127.0.0.1:3308:3306"
+    environment:
+      MYSQL_ROOT_PASSWORD: password
+      MYSQL_DATABASE: database_museu
+    volumes:
+      - museu_local_data:/var/lib/mysql
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost", "-uroot", "-ppassword"]
+      interval: 5s
+      timeout: 5s
+      retries: 30
+volumes:
+  museu_local_data:

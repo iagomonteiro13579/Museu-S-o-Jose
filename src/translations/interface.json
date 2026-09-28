@@ -1,0 +1,305 @@
+{
+  "Início": { "en": "Home", "es": "Inicio" },
+  "Sobre": { "en": "About", "es": "Acerca de" },
+  "Coleções Culturais": {
+    "en": "Cultural Collections",
+    "es": "Colecciones culturales"
+  },
+  "Acervo": { "en": "Collection", "es": "Colección" },
+  "Artigos": { "en": "Articles", "es": "Artículos" },
+  "Tour Virtual": { "en": "Virtual Tour", "es": "Visita virtual" },
+  "Nossos Videos": { "en": "Our Videos", "es": "Nuestros videos" },
+  "Nossos Jogos": { "en": "Our Games", "es": "Nuestros juegos" },
+  "Agende sua visita": {
+    "en": "Plan your visit",
+    "es": "Planifique su visita"
+  },
+  "Menu": { "en": "Menu", "es": "Menú" },
+  "Fechar menu": { "en": "Close menu", "es": "Cerrar menú" },
+  "Navegação principal": {
+    "en": "Main navigation",
+    "es": "Navegación principal"
+  },
+  "Ir para o conteúdo": { "en": "Skip to content", "es": "Ir al contenido" },
+  "Bem-vindo ao Museu Histórico de São José": {
+    "en": "Welcome to Museu Histórico de São José",
+    "es": "Bienvenido al Museu Histórico de São José"
+  },
+  "Descubra a história e a cultura de São José em um espaço dedicado à memória, à educação e à valorização das nossas raízes. Explore exposições, participe de eventos e viva experiências únicas que conectam passado, presente e futuro da nossa cidade.": {
+    "en": "Discover the history and culture of São José in a place devoted to memory, education, and appreciation of our roots. Explore exhibitions, take part in events, and enjoy experiences connecting our city's past, present, and future.",
+    "es": "Descubra la historia y la cultura de São José en un espacio dedicado a la memoria, la educación y la valoración de nuestras raíces. Recorra exposiciones, participe en actividades y viva experiencias que conectan el pasado, el presente y el futuro de nuestra ciudad."
+  },
+  "Ver vídeo introdutório": {
+    "en": "Watch introductory video",
+    "es": "Ver video de introducción"
+  },
+  "Pausar vídeo": { "en": "Pause video", "es": "Pausar video" },
+  "Reproduzir vídeo": { "en": "Play video", "es": "Reproducir video" },
+  "Conheça o nosso Museu!": {
+    "en": "Discover our museum!",
+    "es": "¡Conozca nuestro museo!"
+  },
+  "Seu navegador não suporta o elemento de vídeo.": {
+    "en": "Your browser does not support video.",
+    "es": "Su navegador no admite video."
+  },
+  "Artefatos Históricos": {
+    "en": "Historical Artifacts",
+    "es": "Objetos históricos"
+  },
+  "Anterior": { "en": "Previous", "es": "Anterior" },
+  "Próximo": { "en": "Next", "es": "Siguiente" },
+  "Explore o Acervo 3D do Museu": {
+    "en": "Explore the Museum's 3D Collection",
+    "es": "Explore la colección 3D del museo"
+  },
+  "Descubra uma nova forma de interagir com a história! Nossa página de Acervos reúne": {
+    "en": "Discover a new way to interact with history! Our collection includes",
+    "es": "¡Descubra una nueva forma de interactuar con la historia! Nuestra colección reúne"
+  },
+  "objetos 3D interativos": {
+    "en": "interactive 3D objects",
+    "es": "objetos 3D interactivos"
+  },
+  ", informações detalhadas sobre artefatos históricos e curiosidades do patrimônio de São José.": {
+    "en": ", detailed information about historical artifacts and the heritage of São José.",
+    "es": ", información detallada sobre objetos históricos y el patrimonio de São José."
+  },
+  "Visualize modelos 3D de peças do museu em qualquer dispositivo": {
+    "en": "View 3D models of museum objects on any device",
+    "es": "Vea modelos 3D de piezas del museo en cualquier dispositivo"
+  },
+  "Leia sobre a origem, uso e importância de cada artefato": {
+    "en": "Learn about the origin, use, and importance of each artifact",
+    "es": "Conozca el origen, el uso y la importancia de cada objeto"
+  },
+  "Descubra curiosidades e fatos históricos exclusivos": {
+    "en": "Discover unique facts and historical insights",
+    "es": "Descubra curiosidades y datos históricos únicos"
+  },
+  "Experimente a tecnologia e mergulhe na cultura local": {
+    "en": "Experience the technology and local culture",
+    "es": "Experimente la tecnología y la cultura local"
+  },
+  "Acesse nosso acervo 3D": {
+    "en": "Visit our 3D collection",
+    "es": "Visite nuestra colección 3D"
+  },
+  "Conheça nossos Artigos e Pesquisas": {
+    "en": "Discover our Articles and Research",
+    "es": "Conozca nuestros artículos e investigaciones"
+  },
+  "A página de Artigos reúne publicações, pesquisas, relatos e conteúdos exclusivos sobre o Museu Histórico de São José, sua história, acervo e temas relacionados à cultura local.": {
+    "en": "The Articles page brings together publications, research, accounts, and original content about Museu Histórico de São José, its history, collection, and local culture.",
+    "es": "La página de Artículos reúne publicaciones, investigaciones, relatos y contenidos originales sobre Museu Histórico de São José, su historia, su colección y la cultura local."
+  },
+  "Leia artigos escritos por especialistas e pesquisadores": {
+    "en": "Read articles by experts and researchers",
+    "es": "Lea artículos de especialistas e investigadores"
+  },
+  "Descubra curiosidades e fatos inéditos sobre o museu": {
+    "en": "Discover new facts and stories about the museum",
+    "es": "Descubra historias y datos inéditos sobre el museo"
+  },
+  "Aprofunde-se em temas históricos e culturais": {
+    "en": "Explore historical and cultural topics in depth",
+    "es": "Profundice en temas históricos y culturales"
+  },
+  "Fique por dentro das novidades e eventos acadêmicos": {
+    "en": "Follow news and academic events",
+    "es": "Conozca las novedades y actividades académicas"
+  },
+  "Acesse nossos artigos": {
+    "en": "Read our articles",
+    "es": "Lea nuestros artículos"
+  },
+  "Quer conhecer nosso museu?": {
+    "en": "Would you like to visit our museum?",
+    "es": "¿Quiere conocer nuestro museo?"
+  },
+  "Temos um tour 3D interativo por todo nosso museu! Que tal experimentar?": {
+    "en": "Take an interactive 3D tour through our museum.",
+    "es": "Recorra nuestro museo con una visita 3D interactiva."
+  },
+  "Faça um tour!": { "en": "Start the tour", "es": "Iniciar la visita" },
+  "Visitas de hoje": { "en": "Visits today", "es": "Visitas de hoy" },
+  "Novo visitante": { "en": "New visitor", "es": "Nuevo visitante" },
+  "Contabilizado": { "en": "Counted", "es": "Registrado" },
+  "Museu de São José": { "en": "Museu de São José", "es": "Museu de São José" },
+  "Descubra a história e a cultura da nossa região em um ambiente acolhedor e educativo.": {
+    "en": "Discover our region's history and culture in a welcoming, educational setting.",
+    "es": "Descubra la historia y la cultura de nuestra región en un espacio acogedor y educativo."
+  },
+  "Horários": { "en": "Opening hours", "es": "Horarios" },
+  "Localização": { "en": "Location", "es": "Ubicación" },
+  "Fechar": { "en": "Close", "es": "Cerrar" },
+  "Acervo Completo": {
+    "en": "Complete Collection",
+    "es": "Colección completa"
+  },
+  "Explore nossa galeria de arte, onde obras e peças selecionadas contam a história e a cultura de São José. Cada exposição é um convite para apreciar a criatividade, a memória e a diversidade artística do nosso acervo.": {
+    "en": "Explore our gallery, where selected works and objects tell the history and culture of São José. Each display invites you to appreciate the creativity, memory, and artistic diversity of our collection.",
+    "es": "Explore nuestra galería, donde obras y piezas seleccionadas cuentan la historia y la cultura de São José. Cada exposición invita a apreciar la creatividad, la memoria y la diversidad artística de nuestra colección."
+  },
+  "do museu": { "en": "of the museum", "es": "del museo" },
+  "O Museu Histórico de São José contém diversos itens em seu acervo que contam um pouco mais sobre a história e cultura de São José. Que tal conhecer?": {
+    "en": "The collection of Museu Histórico de São José includes objects that reveal the history and culture of São José. Come discover them.",
+    "es": "La colección de Museu Histórico de São José reúne objetos que revelan la historia y la cultura de São José. Venga a conocerlos."
+  },
+  "Não foi possível carregar o carrossel de obras.": {
+    "en": "The collection highlights could not be loaded.",
+    "es": "No se pudieron cargar las piezas destacadas."
+  },
+  "Galeria do Acervo": {
+    "en": "Collection Gallery",
+    "es": "Galería de la colección"
+  },
+  "Explore os itens do acervo do Museu Histórico de São José": {
+    "en": "Explore the collection of Museu Histórico de São José",
+    "es": "Explore la colección de Museu Histórico de São José"
+  },
+  "Filtrar por coleção": {
+    "en": "Filter by collection",
+    "es": "Filtrar por colección"
+  },
+  "Coleção": { "en": "Collection", "es": "Colección" },
+  "Nenhum item no acervo": {
+    "en": "No objects in the collection",
+    "es": "No hay objetos en la colección"
+  },
+  "Adicione itens para começar a construir sua galeria": {
+    "en": "Add objects to begin building the gallery",
+    "es": "Añada objetos para comenzar a crear la galería"
+  },
+  "Artigos do Museu de São José": {
+    "en": "Articles from Museu de São José",
+    "es": "Artículos de Museu de São José"
+  },
+  "Nenhum Artigo encontrado.": {
+    "en": "No articles found.",
+    "es": "No se encontraron artículos."
+  },
+  "Carregando artigos...": {
+    "en": "Loading articles...",
+    "es": "Cargando artículos..."
+  },
+  "Coleção Africana": {
+    "en": "African Collection",
+    "es": "Colección africana"
+  },
+  "Coleção Indígena": {
+    "en": "Indigenous Collection",
+    "es": "Colección indígena"
+  },
+  "Explore objetos do acervo do Museu Histórico de São José que celebram as culturas africana e indígena.": {
+    "en": "Explore objects from Museu Histórico de São José that celebrate African and Indigenous cultures.",
+    "es": "Explore objetos de Museu Histórico de São José que celebran las culturas africanas e indígenas."
+  },
+  "Conheça nosso acervo completo!": {
+    "en": "Explore the complete collection",
+    "es": "Explore la colección completa"
+  },
+  "🎮 Escolha seu jogo": {
+    "en": "🎮 Choose a game",
+    "es": "🎮 Elija un juego"
+  },
+  "Jogar agora": { "en": "Play now", "es": "Jugar ahora" },
+  "⬅ Voltar": { "en": "⬅ Back", "es": "⬅ Volver" },
+  "Vídeos nas Redes Sociais": {
+    "en": "Videos on Social Media",
+    "es": "Videos en redes sociales"
+  },
+  "Galeria de Vídeos": { "en": "Video Gallery", "es": "Galería de videos" },
+  "Carregando...": { "en": "Loading...", "es": "Cargando..." },
+  "Nossas Redes": { "en": "Our social media", "es": "Nuestras redes" },
+  "Admin": { "en": "Admin", "es": "Administración" },
+  "Sair": { "en": "Sign out", "es": "Salir" },
+  "Descrição": { "en": "Description", "es": "Descripción" },
+  "Contexto Histórico": {
+    "en": "Historical Context",
+    "es": "Contexto histórico"
+  },
+  "Características": { "en": "Characteristics", "es": "Características" },
+  "Dimensões": { "en": "Dimensions", "es": "Dimensiones" },
+  "Local de Origem": { "en": "Place of Origin", "es": "Lugar de origen" },
+  "Material:": { "en": "Material:", "es": "Material:" },
+  "Técnica:": { "en": "Technique:", "es": "Técnica:" },
+  "Estado:": { "en": "Condition:", "es": "Estado:" },
+  "Altura:": { "en": "Height:", "es": "Altura:" },
+  "Largura:": { "en": "Width:", "es": "Ancho:" },
+  "Profundidade:": { "en": "Depth:", "es": "Profundidad:" },
+  "Período": { "en": "Period", "es": "Período" },
+  "Artista": { "en": "Artist", "es": "Artista" },
+  "Doador": { "en": "Donor", "es": "Donante" },
+  "Imagem indisponível": {
+    "en": "Image unavailable",
+    "es": "Imagen no disponible"
+  },
+  "Cancelar": { "en": "Cancel", "es": "Cancelar" },
+  "Aplicar": { "en": "Apply", "es": "Aplicar" },
+  "Adicionar": { "en": "Add", "es": "Añadir" },
+  "Ativar acesso": { "en": "Activate access", "es": "Activar acceso" },
+  "Entrar": { "en": "Sign in", "es": "Entrar" },
+  "Use o e-mail associado ao convite.": {
+    "en": "Use the email associated with the invitation.",
+    "es": "Use el correo asociado con la invitación."
+  },
+  "Nome": { "en": "Name", "es": "Nombre" },
+  "E-mail": { "en": "Email", "es": "Correo electrónico" },
+  "Senha": { "en": "Password", "es": "Contraseña" },
+  "Use pelo menos 12 caracteres.": {
+    "en": "Use at least 12 characters.",
+    "es": "Use al menos 12 caracteres."
+  },
+  "Abra o link completo recebido no convite.": {
+    "en": "Open the full link received in the invitation.",
+    "es": "Abra el enlace completo recibido en la invitación."
+  },
+  "Administração": { "en": "Administration", "es": "Administración" },
+  "Conteúdo, traduções e acesso ao museu.": {
+    "en": "Museum content, translations and access.",
+    "es": "Contenido, traducciones y acceso al museo."
+  },
+  "Vídeos": { "en": "Videos", "es": "Videos" },
+  "Traduções e glossário": {
+    "en": "Translations and glossary",
+    "es": "Traducciones y glosario"
+  },
+  "Convidar administrador": {
+    "en": "Invite administrator",
+    "es": "Invitar administrador"
+  },
+  "Permitir gerenciar outros administradores": {
+    "en": "Allow managing other administrators",
+    "es": "Permitir administrar otros administradores"
+  },
+  "O convite é válido por 24 horas e pode ser usado uma vez.": {
+    "en": "The invitation is valid for 24 hours and can be used once.",
+    "es": "La invitación es válida durante 24 horas y puede usarse una vez."
+  },
+  "Administradores": { "en": "Administrators", "es": "Administradores" },
+  "Perfil": { "en": "Profile", "es": "Perfil" },
+  "Acesso": { "en": "Access", "es": "Acceso" },
+  "Voltar": { "en": "Back", "es": "Volver" },
+  "O português é preservado como fonte. Inglês e espanhol só são exibidos após revisão e publicação.": {
+    "en": "Portuguese is preserved as the source. English and Spanish are shown only after review and publication.",
+    "es": "El portugués se conserva como fuente. El inglés y el español solo se muestran después de su revisión y publicación."
+  },
+  "Nomes protegidos": { "en": "Protected names", "es": "Nombres protegidos" },
+  "Novo nome próprio": { "en": "New proper name", "es": "Nuevo nombre propio" },
+  "Proteger termo": { "en": "Protect term", "es": "Proteger término" },
+  "Idioma": { "en": "Language", "es": "Idioma" },
+  "Buscar conteúdo": { "en": "Search content", "es": "Buscar contenido" },
+  "Tradução": { "en": "Translation", "es": "Traducción" },
+  "Salvar rascunho": { "en": "Save draft", "es": "Guardar borrador" },
+  "Publicar revisão": { "en": "Publish review", "es": "Publicar revisión" },
+  "campos": { "en": "fields", "es": "campos" },
+  "Conteúdo": { "en": "Content", "es": "Contenido" },
+  "Estado": { "en": "Status", "es": "Estado" },
+  "Ação": { "en": "Action", "es": "Acción" },
+  "Revisar": { "en": "Review", "es": "Revisar" },
+  "Use a busca para localizar o conteúdo que deseja traduzir.": {
+    "en": "Use search to find the content you want to translate.",
+    "es": "Use la búsqueda para encontrar el contenido que desea traducir."
+  }
+}

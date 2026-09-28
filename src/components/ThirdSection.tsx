@@ -1,0 +1,32 @@
+'use client';
+
+import { T } from '@/components/Language';
+export default function ThirdSection() {
+  return (
+    <section className="relative min-h-screen bg-cover bg-center bg-[url('/imgs/bg3-edit.png')] flex items-center justify-center px-2 py-8 sm:px-4">
+      {/* Caixa flutuante */}
+      <div className="bg-black/30 backdrop-blur-md border border-white/20 rounded-2xl shadow-2xl p-4 sm:p-8 md:p-12 max-w-xs sm:max-w-xl text-center flex flex-col items-center space-y-4 sm:space-y-6">
+        <h2 className="text-2xl md:text-3xl font-worksans  text-primary-foreground font-bold">
+          <T text={'Quer conhecer nosso museu?'} />{' '}
+        </h2>
+
+        <p className="text-base md:text-xl font-worksans text-primary-foreground">
+          <T
+            text={
+              'Temos um tour 3D interativo por todo nosso museu! Que tal experimentar?'
+            }
+          />{' '}
+        </p>
+
+        <a href="/tour">
+          <button
+            type="button"
+            className="mt-4 bg-accent text-accent-foreground px-8 py-4 md:px-12 md:py-5 rounded-xl text-lg md:text-2xl font-semibold hover:bg-red-950 transition duration-300 shadow-md"
+          >
+            <T text={'Faça um tour!'} />{' '}
+          </button>
+        </a>
+      </div>
+    </section>
+  );
+}

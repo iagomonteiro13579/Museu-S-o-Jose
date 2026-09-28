@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Acervo Digital | São José - SC</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Arial, sans-serif;
+        }
+
+        body {
+            background-color: #f3f5f7;
+            color: #333;
+        }
+
+        .acervo-container {
+            max-width: 1100px;
+            margin: 40px auto;
+            background: #ffffff;
+            border-radius: 12px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+            overflow: hidden;
+        }
+
+        .acervo-header {
+            background: linear-gradient(135deg, #1e3c72, #2a5298);
+            color: #fff;
+            padding: 30px 40px;
+        }
+
+        .acervo-header h1 {
+            font-size: 2rem;
+            margin-bottom: 5px;
+        }
+
+        .acervo-header p {
+            font-size: 1rem;
+            opacity: 0.9;
+        }
+
+        .acervo-galeria {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+            gap: 15px;
+            padding: 25px 40px;
+        }
+
+        .acervo-galeria img {
+            width: 100%;
+            height: 190px;
+            object-fit: cover;
+            border-radius: 10px;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            cursor: pointer;
+        }
+
+        .acervo-galeria img:hover {
+            transform: scale(1.03);
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+        }
+
+        .acervo-conteudo {
+            padding: 10px 40px 40px 40px;
+        }
+
+        .acervo-conteudo h2 {
+            font-size: 1.6rem;
+            color: #1e3c72;
+            margin-bottom: 15px;
+        }
+
+        .acervo-conteudo p {
+            text-align: justify;
+            line-height: 1.8;
+            font-size: 1rem;
+            margin-bottom: 15px;
+        }
+
+        .acervo-fontes {
+            margin-top: 30px;
+            padding-top: 20px;
+            border-top: 1px solid #e0e0e0;
+        }
+
+        .acervo-fontes h3 {
+            font-size: 1.2rem;
+            margin-bottom: 10px;
+            color: #2a5298;
+        }
+
+        .acervo-fontes a {
+            display: block;
+            color: #1e3c72;
+            text-decoration: none;
+            margin-bottom: 6px;
+            font-size: 0.95rem;
+        }
+
+        .acervo-fontes a:hover {
+            text-decoration: underline;
+        }
+
+        @media (max-width: 768px) {
+
+            .acervo-header,
+            .acervo-galeria,
+            .acervo-conteudo {
+                padding: 20px;
+            }
+
+            .acervo-header h1 {
+                font-size: 1.5rem;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="acervo-container">
+
+        <!-- Cabeçalho -->
+        <div class="acervo-header">
+            <h1>Acervo Digital</h1>
+            <p>Patrimônio Histórico de São José – Santa Catarina</p>
+        </div>
+
+        <!-- Galeria de imagens -->
+        <div class="acervo-galeria">
+            <!-- Substitua os caminhos abaixo pelas imagens reais -->
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLqGX81Z25Cyu8zJG6k9jOccEJaikMM_XG7w&s"
+                alt="Theatro Adolpho Mello - fachada">
+            <img src="https://static.ndmais.com.br/2024/03/teatro-renovado-1300x867.jpeg" alt="Interior do Theatro">
+            <img src="https://saojose.sc.gov.br/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-03-at-17.51.44.jpeg"
+                alt="Detalhes arquitetônicos">
+            <img src="https://static.ndmais.com.br/2024/03/theatro-2-1300x874.jpeg"
+                alt="Foto antiga do Theatro Adolpho Mello">
+        </div>
+
+        <!-- Conteúdo -->
+        <div class="acervo-conteudo">
+            <h2>Theatro Adolpho Mello</h2>
+
+            <p>
+                A pedra fundamental para a construção da casa de espetáculos foi lançada em 17 de setembro de 1854. Dois
+                anos depois, o prédio foi solenemente inaugurado em 21 de junho de 1856, coincidindo com a data em que
+                São José foi elevada à categoria de cidade, o que ressalta a importância do novo equipamento cultural
+                para a comunidade.
+            </p>
+
+            <p>
+                A arquitetura original do Theatro Municipal seguia tendências coloniais e a iluminação inicial era
+                realizada por meio de lampiões, o que confere um charme e uma atmosfera da época aos seus primeiros
+                anos. Este espaço nasceu como um vital centro de atividades artísticas e sociais, espelhando o desejo da
+                elite josefense de participar do florescimento cultural que o Império promovia.
+            </p>
+
+            <p>
+                Registros indicam que, ao longo do final do século XIX, o Theatro passou por melhorias internas,
+                incluindo pinturas e outros aperfeiçoamentos custeados e executados pela própria população local,
+                utilizando suas aptidões em ofícios como marcenaria e serralheria, o que reforça o forte laço
+                comunitário com o edifício.
+            </p>
+
+            <p>
+                A história do Theatro é marcada por múltiplas transformações de uso e identidade, refletindo as mudanças
+                sociais e tecnológicas. Em meados do século XX, o espaço passou por significativas adaptações para
+                abrigar a arte do cinema, funcionando como Cine Rajá e, posteriormente, como Cine York. Essa alteração
+                estrutural modificou consideravelmente o seu estilo arquitetônico original, mas manteve o prédio como um
+                ponto central de entretenimento e encontro.
+            </p>
+
+            <p>
+                Um momento crucial na história do Theatro ocorreu por volta da década de 1980. Nessa época, a edificação
+                estava ameaçada de ser vendida e, possivelmente, demolida, como alguns documentos apontam. Foi graças à
+                mobilização de personalidades locais, como o pesquisador e agitador cultural Gilberto Gerlach, que o
+                prédio foi declarado de utilidade pública e reintegrado ao patrimônio municipal.
+            </p>
+
+            <p>
+                A partir de uma reforma realizada nos anos 1980, o espaço finalmente recebeu seu nome atual: Theatro
+                Adolpho Mello, em homenagem ao renomado músico, violinista, compositor e regente josefense Adolpho
+                Ferreira Mello (nascido em 1861). Em 2005, a edificação foi formalmente tombada como Patrimônio
+                Histórico do Município de São José pelo Decreto Municipal nº 18.706.
+            </p>
+
+            <p>
+                Após cerca de oito anos de interdição, a restauração foi concluída, e o Theatro Adolpho Mello foi
+                reinaugurado em 23 de dezembro de 2020. As obras trouxeram um novo sistema de som, iluminação,
+                climatização e acessibilidade, além da recuperação estrutural do telhado, fachadas e esquadrias.
+            </p>
+
+            <p>
+                Atualmente, com capacidade para cerca de 150 pessoas, o Theatro acolhe espetáculos e apresentações de
+                grupos estaduais e nacionais, além de sediar a Escola de Artes de São José, oferecendo oficinas de
+                teatro, dança e música, mantendo-se como patrimônio vivo da cultura josefense.
+            </p>
+
+            <!-- Fontes -->
+            <div class="acervo-fontes">
+                <h3>Fontes Históricas</h3>
+                <a href="https://www.ipatrimonio.org/sao-jose-teatro-adolpho-mello" target="_blank">
+                    Decreto Municipal nº 18.706 (2005) – IPatrimônio
+                </a>
+                <a href="https://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=444409"
+                    target="_blank">
+                    Arquivo Público / Biblioteca IBGE
+                </a>
+                <a href="https://saojose.sc.gov.br/servico-theatro-adolpho-mello/" target="_blank">
+                    Prefeitura Municipal de São José
+                </a>
+            </div>
+        </div>
+
+    </div>
+
+</body>
+
+</html>
